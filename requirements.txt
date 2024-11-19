@@ -1,0 +1,4 @@
+fastapi==0.95.2  # For building the FastAPI server
+uvicorn==0.22.0  # For running the FastAPI application
+beautifulsoup4==4.13.2  # For HTML parsing and scraping
+requests==2.31.0  # For making HTTP requests to web pages

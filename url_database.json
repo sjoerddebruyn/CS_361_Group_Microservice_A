@@ -1,0 +1,11 @@
+{
+    "scrape_test/index.html": {
+        "type": "movie",
+        "selectors": {
+            "item": ".movie-item",
+            "title": ".movie-title",
+            "year": ".movie-year",
+            "poster": ".movie-poster"
+        }
+    }
+}
